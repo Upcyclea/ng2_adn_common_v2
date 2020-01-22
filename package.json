@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "git+https://bitbucket.org/upcyclea/angular2_common.git",
+      "git+https://github.com/Upcyclea/ng2_adn_common_v2.git",
       "/home/oleksandr/Projects/Upcyclea (clone)/frontend"
     ]
   ],
-  "_from": "git+https://bitbucket.org/upcyclea/angular2_common.git",
-  "_id": "ng2-adn-common@git+https://bitbucket.org/upcyclea/angular2_common.git#62fd6fab00aa4559d905e55c20bd2a4432adea9c",
+  "_from": "git+https://github.com/Upcyclea/ng2_adn_common_v2.git",
+  "_id": "ng2-adn-common@git+https://github.com/Upcyclea/ng2_adn_common_v2#master",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/ng2-adn-common",
@@ -15,17 +15,17 @@
   },
   "_requested": {
     "type": "git",
-    "raw": "git+https://bitbucket.org/upcyclea/angular2_common.git",
-    "rawSpec": "git+https://bitbucket.org/upcyclea/angular2_common.git",
-    "saveSpec": "git+https://bitbucket.org/upcyclea/angular2_common.git",
-    "fetchSpec": "https://bitbucket.org/upcyclea/angular2_common.git",
+    "raw": "git+https://github.com/Upcyclea/ng2_adn_common_v2.git",
+    "rawSpec": "git+https://github.com/Upcyclea/ng2_adn_common_v2.git",
+    "saveSpec": "git+https://github.com/Upcyclea/ng2_adn_common_v2.git",
+    "fetchSpec": "https://github.com/Upcyclea/ng2_adn_common_v2.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://bitbucket.org/upcyclea/angular2_common.git#62fd6fab00aa4559d905e55c20bd2a4432adea9c",
-  "_spec": "git+https://bitbucket.org/upcyclea/angular2_common.git",
+  "_resolved": "git+https://github.com/Upcyclea/ng2_adn_common_v2#master",
+  "_spec": "git+https://github.com/Upcyclea/ng2_adn_common_v2.git",
   "_where": "/home/oleksandr/Projects/Upcyclea (clone)/frontend",
   "author": {
     "name": "aleksandr@adngames.com"
